@@ -7,5 +7,5 @@ network is really online or offline
 
 https://github.com/RichardPar/NetWorkTask/blob/master/Network_OK.PNG
 
-https://github.com/RichardPar/NetWorkTask/blob/master/Capture-FAIL.PNG
+https://github.com/RichardPar/NetWorkTask/blob/master/Capture-fail.PNG
 
