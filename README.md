@@ -5,5 +5,7 @@ The Application is written using Lazarus Pascal and just shows an ICON on the st
 I wrote this app as I travel alot and use mobile data - I would like to see a better view of whether the 
 network is really online or offline
 
+https://github.com/RichardPar/NetWorkTask/blob/master/Network_OK.PNG
 
+https://github.com/RichardPar/NetWorkTask/blob/master/Capture-FAIL.PNG
 
